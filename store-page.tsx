@@ -6,7 +6,7 @@ const products = [
   {
     id: 1,
     name: "Classic Leather Handbag",
-    price: 89.99,
+    price: 0.00,
     category: "Accessories",
     image: "/placeholder.svg?height=300&width=300",
   },
